@@ -21,3 +21,19 @@ Une application web permettant aux étudiants de gérer facilement leurs finance
 
 ## Structure du Projet
 
+finance-app/ 
+            ├── index.html
+            ├── css/ 
+              │ 
+              └── styles.css
+            ├── js/ 
+                │ 
+                ├── app.js│ 
+                └── chart.js
+            ├── libs/ 
+                │ 
+                ├── bootstrap.min.css│ 
+                ├── bootstrap.min.js│ 
+                └── chart.min.js
+            └── assets/ 
+                └── images/
